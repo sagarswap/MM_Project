@@ -20,7 +20,8 @@
             android:name=".Main_Page"
             android:label="@string/title_activity_main__page"
             android:theme="@style/AppTheme" />
-        <activity android:name=".NewUser"></activity>
+        <activity android:name=".NewUser" />
+        <activity android:name=".UserDetails"></activity>
     </application>
 
 </manifest>
