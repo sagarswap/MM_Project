@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MM_Project</string>
+    <string name="title_activity_main__page">Main_Page</string>
 </resources>
